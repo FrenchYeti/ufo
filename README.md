@@ -9,8 +9,20 @@ An experimental library for helping developer to implement the application secur
 
 ## UFO Framework
 
+Features :
+- Access Control management : ACL, RBAC, Dynamic RBAC
+- Schema-based or File-based Session management
+- User management
+- Anti-CSRF
+- Tainted inputs
+- Sanitizer
+- ...
+
+
 ## UFO Developer console
 
 ## UFO Administration dashboard
 
-A graphic web application wrote in PHP and JavaScript (ExtJS interface) allow the developers to monitor current session
+A graphic web application wrote in PHP and JavaScript (ExtJS interface) allowing the developers to :
+- Monitor current session
+- Modify dynamically the access allow to a specific user and a specific session
